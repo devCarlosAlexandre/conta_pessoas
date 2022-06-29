@@ -1,4 +1,4 @@
-# Conta Pessoas
+# Conta Pessoas ✨
 
 Um novo app em Flutter.
 Um aplicativo em flutter para contar pessoas em um estabelecimento, este aplicativo foi construído somente para fins educativos.
@@ -20,3 +20,7 @@ quando a contagem está em 0 o botão "saiu" fica desabilitado, não permitindo 
 Quando chega sua capacidade máxima do estabelecimento o app desabilita a opção o botão "entrou" evitando assim que seja permitida o maior numero de pessoas que o estabalicimento pode comportar 
 
 ![image](https://user-images.githubusercontent.com/63679873/176519562-67948e35-24c7-4de3-abbe-0cbb259399da.png)
+
+# Considerações finais
+Este app foi construido durante o curso de flutter do Daniel Ciolfi disponibilizado na plataforma da Udemy. 
+Durante este projeto pude entender mais sobre estrutura da tela no flutter, colocar em prática a utilização dos widgets Stateless e Stateful, Adicionar imagens no aplicativo, e também a utilização de widgets de coluna, linha, texto e botões. 🌟
